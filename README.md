@@ -1,4 +1,4 @@
-# 🧠 NeuralForge — Custom CNN Image Classifier
+#  NeuralForge — Custom CNN Image Classifier
 
 A full end-to-end machine learning web application built with **TensorFlow/Keras** and **Streamlit**.
 
